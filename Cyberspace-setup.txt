@@ -1,0 +1,7 @@
+Running Cyberspace on localhost:
+
+1) Copy paste the Cyberspace-Secure and Cyberspace-Unsecure folders in the "xampp/htdocs"
+2) Switch on the Apache and MySQL server on xampp while testing the website.
+3) Replace the ssl certificate and key of the existing localhost with the cyberspace ssl certificate(Cyberspace-SSL certificate folder) in the xampp/conf/ssl.crt and xampp/conf/ssl.key
+4)Websites can be both HTTP and HTTPS.
+5)Import the database folder file(Cyberspace_DB) in localhost/phpmyadmin
